@@ -1,0 +1,5 @@
+Binaries/Win64/CI628_Multiplayer.exe filter=lfs diff=lfs merge=lfs -text
+Binaries/Win64/CI628_Mulitplayer-Win64-Shipping.pdb
+ filter=lfs diff=lfs merge=lfs -text
+Binaries/Win64/CI628_Multiplayer-Win64-Shipping.pdb filter=lfs diff=lfs merge=lfs -text
+Binaries/Win64/CI628_Multiplayer.pdb filter=lfs diff=lfs merge=lfs -text
